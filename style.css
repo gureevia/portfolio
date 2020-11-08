@@ -48,9 +48,7 @@ body {
 
 .header-pdf {
   padding-left: 25px;
-  background-image: url("img/icon-pdf-header.svg");
-  width: 20px;
-  height: 16px;
+  background-image: url("img/icon-pdf-header.png");
 }
 
 .hero-image {
