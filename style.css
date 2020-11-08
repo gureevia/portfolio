@@ -46,6 +46,13 @@ body {
   background-image: url("img/icon-phone-header.svg");
 }
 
+.header-pdf {
+  padding-left: 25px;
+  background-image: url("img/icon-pdf-header.svg");
+  width: 20px;
+  height: 16px;
+}
+
 .hero-image {
   margin-bottom: 620px;
 }
